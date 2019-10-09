@@ -62,7 +62,5 @@ class Owner
     all_pets.each do |pet|
       sell_pet(pet)
     end 
-    
-  
   end
 end
